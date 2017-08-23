@@ -1,6 +1,9 @@
 # emaling-1
 wzór prostego Newslettera
 
+https://sfeliks2016.github.io/emaling-1/
+
+
 projekt wykonany na podstawie tutoriala:
 https://www.youtube.com/watch?v=EFfK09j4A4I
 
